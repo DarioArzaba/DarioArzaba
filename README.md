@@ -24,7 +24,7 @@ Nice to meet you! I'm a mechatronics engineer that is passionate about everythin
 <p align="left">
   <a href="mailto:dario.arzaba@gmail.com" target="blank"><img align="center" src="icons/gmail.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/dario-arzaba/" target="blank"><img align="center" src="icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/6243342/dario-arzaba" target="blank"><img align="center" src="icons/stackoverflow" alt="stackoverflow" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/6243342/dario-arzaba" target="blank"><img align="center" src="icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40" /></a>
   <a href="https://darioarzaba.vercel.app/" target="blank"><img align="center" src="icons/vercel.svg" alt="Blog" height="30" width="40" /></a>
   <a href="https://www.facebook.com/darioarzaba/" target="blank"><img align="center" src="icons/fb.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://twitter.com/ArzabaDario" target="blank"><img align="center" src="icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
