@@ -2,20 +2,13 @@
 	<img src="DarioArzabaHero.png" alt="my banner">
 </p>
 
-<h1 align="center">🌊 Welcome to my GitHub 🌴</h1>
+<h1 align="center">🌊 Welcome to my GitHub Profile🌴</h1>
 
 <br/>
 
-Nice to meet you! I'm a mechatronics engineer that is passionate about everything related to the tech industry including robotics, machine learning, embedded systems, data analysis and cybersecurity. 
+Nice to meet you! 
 
-<br/>
-<h2>Tools I Have Used and Learned 🚀</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-<br/>
+I'm a mechatronics engineer that is passionate about everything related to the tech industry including robotics, machine learning, embedded systems, data analysis and cybersecurity. 
 
 <!-- Hope you are having a great day. Let's collaborate and connect 🤝 -->
 
@@ -34,7 +27,7 @@ Nice to meet you! I'm a mechatronics engineer that is passionate about everythin
 </p>
 <br/>
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools 🚀</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
@@ -65,20 +58,23 @@ Nice to meet you! I'm a mechatronics engineer that is passionate about everythin
   src="https://github.com/darioarzaba/darioarzaba/blob/main/images/stat.svg"
   alt="Dario Arzaba WakaTime Activity"
 />
+
 <br/>
 
 ## Blog Post 📝
 
 - [International Collegiate Programming Contest Problems](https://darioarzaba.vercel.app/blog/programming/ICPC1974)
+
+
 <br/>
 
 ---
-<br/>
 
+<br/>
 <img align="right" alt="Dog" width="180" src="cat.gif" />
 <img align="left" alt="Dog" width="150" src="dog.gif" />
 <h3 align="center"></h3>
-<br>
+
 <p align="center">
   You are the visitor number:<br>
   <br>
