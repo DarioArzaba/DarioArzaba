@@ -1,20 +1,25 @@
 <p align="center">
-	<img src="hero.png" alt="my banner">
+	<img src="DarioArzabaHero.png" alt="my banner">
 </p>
 
 <h1 align="center">🌊 Welcome to my GitHub 🌴</h1>
 
+<br/>
+
 Nice to meet you! I'm a mechatronics engineer that is passionate about everything related to the tech industry including robotics, machine learning, embedded systems, data analysis and cybersecurity. 
 
+<br/>
 <h2>Tools I Have Used and Learned 🚀</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
+<br/>
 
-<!-- Hope you are having a great day. Let's collab and connect 🤝 -->
+<!-- Hope you are having a great day. Let's collaborate and connect 🤝 -->
 
+<br/>
 <h2 align="left">Connect With Me ☕</h2>
 <p align="left">
   <a href="mailto:dario.arzaba@gmail.com" target="blank"><img align="center" src="icons/gmail.svg" alt="Email" height="30" width="40" /></a>
@@ -27,6 +32,7 @@ Nice to meet you! I'm a mechatronics engineer that is passionate about everythin
   <a href="https://dev.to/darioarzaba" target="blank"><img align="center" src="icons/devto.svg" alt="dev" height="30" width="40" /></a>
   <a href="https://hashnode.com/@DarioArzaba" target="blank"><img align="center" src="icons/hashnode.svg" alt="hashnode" height="30" width="40" /></a>
 </p>
+<br/>
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -51,6 +57,7 @@ Nice to meet you! I'm a mechatronics engineer that is passionate about everythin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
 </p>
+<br/>
 
 ## Coding Activity 👨‍💻
 
@@ -58,12 +65,15 @@ Nice to meet you! I'm a mechatronics engineer that is passionate about everythin
   src="https://github.com/darioarzaba/darioarzaba/blob/main/images/stat.svg"
   alt="Dario Arzaba WakaTime Activity"
 />
+<br/>
 
 ## Blog Post 📝
 
 - [International Collegiate Programming Contest Problems](https://darioarzaba.vercel.app/blog/programming/ICPC1974)
+<br/>
 
 ---
+<br/>
 
 <img align="right" alt="Dog" width="180" src="cat.gif" />
 <img align="left" alt="Dog" width="150" src="dog.gif" />
