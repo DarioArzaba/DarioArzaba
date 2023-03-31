@@ -1,0 +1,23 @@
+name: WakaTime Update
+
+on:
+  schedule:
+    # Runs at 12 am UTC or 6 pm CST
+    - cron: "0 18 * * *"
+
+jobs:
+  update-readme:
+    name: Update WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
+      # Do not change the line below until you have forked this repository
+      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "main"
+          COMMIT_MSG: "Automated Update :sunglasses:"
+          # last_7_days, last_30_days, last_6_months, last_year, or all_time
+          STATS_RANGE: "all_time"
