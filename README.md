@@ -63,7 +63,7 @@ I'm a mechatronics engineer that is passionate about everything related to the t
 
 ## CAD and 3D Models 💻	
 
-- [GrabCAD Profile](https://grabcad.com/dario.arzaba-1)
+<a href="https://grabcad.com/dario.arzaba-1" target="blank"><img align="center" src="S1.png" alt="GrabCAD"/></a>
 
 <br/>
 
