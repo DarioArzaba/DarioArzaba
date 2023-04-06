@@ -61,10 +61,15 @@ I'm a mechatronics engineer that is passionate about everything related to the t
 
 <br/>
 
-## Blog Post 📝
+## CAD and 3D Models 💻	
+
+- [GrabCAD Profile](https://grabcad.com/dario.arzaba-1)
+
+<br/>
+
+## Blog 📝
 
 - [International Collegiate Programming Contest Problems](https://darioarzaba.vercel.app/blog/programming/ICPC1974)
-
 
 <br/>
 
