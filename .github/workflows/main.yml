@@ -2,8 +2,8 @@ name: WakaTime Update
 
 on:
   schedule:
-    # Runs at 12 am UTC or 6 pm CST
-    - cron: "0 18 * * *"
+    # Runs at 6 pm CST the first of the month
+    - cron: "0 18 1 * *"
 
 jobs:
   update-readme:
