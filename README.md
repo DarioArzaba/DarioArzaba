@@ -10,8 +10,6 @@ Nice to meet you!
 
 I'm a mechatronics engineer that is passionate about everything related to the tech industry including robotics, machine learning, embedded systems, data analysis and cybersecurity. 
 
-<a rel="me" href="https://mastodon.social/@DarioArzaba"></a>
-
 <!-- Hope you are having a great day. Let's collaborate and connect 🤝 -->
 
 <br/>
