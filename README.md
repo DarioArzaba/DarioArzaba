@@ -83,7 +83,7 @@ I'm a mechatronics engineer that is passionate about everything related to the t
 <p align="center">
   You are the visitor number:<br>
   <br>
-  <img src="https://profile-counter.glitch.me/darioarzaba/count.svg" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDarioArzaba&label=Visitor&countColor=%23ba68c8g" />
   <br>
   <br>
   ⭐ Thank you ⭐<br>
